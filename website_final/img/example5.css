@@ -1,0 +1,26 @@
+.background {
+	background-color: green;
+}
+
+li{
+	color: blue
+}
+
+a{
+	color: blue
+}
+
+h1,h2 {
+	color: red
+}
+
+div {
+  background-color: lightblue;
+}
+
+.why {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
